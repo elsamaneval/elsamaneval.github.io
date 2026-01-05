@@ -12,14 +12,14 @@ I work under the supervision of **Dimitri Wyss** in the **Chair of Arithmetic Ge
 
 Previously, I studied at **École Normale Supérieure (Ulm)** in Paris and at **Sorbonne Université**.
 
-I am interested in the use of **\(p\)-adic** and **motivic integration** techniques on **moduli spaces of Higgs bundles** and their **mirror symmetry** features.
+I am interested in the use of **p-adic** and **motivic integration** techniques on **moduli spaces of Higgs bundles** and their **mirror symmetry** features.
 
 ---
 
 ## Research
 
 - *Non-archimedean topological mirror symmetry for*  
-  *\( \mathrm{SL}_n \) and \( \mathrm{PGL}_n \) Higgs bundles*, 2025.  
+  *SLn and PGLn Higgs bundles*, 2025.  
   [arXiv:2507.02588](https://arxiv.org/abs/2507.02588)
 ---
 
