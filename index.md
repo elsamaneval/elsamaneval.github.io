@@ -5,6 +5,10 @@ title: Elsa Maneval
 
 # Elsa Maneval
 
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+
+  <div style="flex: 1;">
 Welcome to my webpage !
 
 Since September 2024, I am a **PhD student in Mathematics** at École Polytechnique Fédérale de Lausanne (EPFL).
@@ -15,6 +19,19 @@ Previously, I studied at **École Normale Supérieure (Ulm)** in Paris and at **
 
 I am interested in the use of **p-adic** and **motivic integration** techniques on **moduli spaces of Higgs bundles** and their **mirror symmetry** features.
 
+  </div>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="images/me.jpg"
+         alt="Elsa Maneval"
+         width="180"
+         style="border-radius: 10px;">
+    <figcaption style="font-size: 0.85em; color: #555; margin-top: 6px;">
+      at Maison Poincaré, Paris
+    </figcaption>
+  </figure>
+
+</div>
 ---
 
 ## Research
