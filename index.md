@@ -45,12 +45,12 @@ I am interested in the use of **p-adic** and **motivic integration** techniques 
 
 ## Teaching
 
-- Fall 2025 : *Topology IV, Cohomology Rings*, Master, lectured by Jerôme Scherer (Teaching Assistant)
-- Spring 2025 : *Topology II*, Bachelor 2, lectured by Dimitri Wyss (Principal Teaching Assistant)
-- Fall 2024 : *Structures fondamentales*, Bachelor 1, lectured by Dimitri Wyss (Principal Teaching Assistant)
-- Spring 2024 : *Algebraic Curves*, Bachelor 3, lectured by Dimitri Wyss (Solution sheets writing)
-- Fall 2023 : *Structures algébriques*, Bachelor 1, lectured by Dimitri Wyss (Teaching Assistant)
-- Khôlles MP*, 2020-2021, Lycée Condorcet, Paris.
+- Fall 2025 : *Topology IV, Cohomology Rings*, Master, lectured by Jerôme Scherer, EPFL (Teaching Assistant)
+- Spring 2025 : *Topology II*, Bachelor 2, lectured by Dimitri Wyss, EPFL (Principal Teaching Assistant)
+- Fall 2024 : *Structures fondamentales*, Bachelor 1, lectured by Dimitri Wyss, EPFL (Principal Teaching Assistant)
+- Spring 2024 : *Algebraic Curves*, Bachelor 3, lectured by Dimitri Wyss, EPFL (Solution sheets writing)
+- Fall 2023 : *Structures algébriques*, Bachelor 1, lectured by Dimitri Wyss, EPFL (Teaching Assistant)
+- 2020-2021 : Khôlles MP*, Lycée Condorcet, Paris (Weekly oral exams for 2nd year students in *Classe Prépa*)
   
 ---
 
