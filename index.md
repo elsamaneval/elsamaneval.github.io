@@ -21,8 +21,6 @@ I am interested in the use of **\(p\)-adic** and **motivic integration** techniq
 - *Non-archimedean topological mirror symmetry for*  
   *\( \mathrm{SL}_n \) and \( \mathrm{PGL}_n \) Higgs bundles*, 2025.  
   [arXiv:2507.02588](https://arxiv.org/abs/2507.02588)
-
-**Math test:** \( \mathbb{Q}_p \), \( \mathrm{SL}_n \), \( \dim X = n \).
 ---
 
 
