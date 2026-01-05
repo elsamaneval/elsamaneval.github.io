@@ -5,31 +5,52 @@ title: Elsa Maneval
 
 # Elsa Maneval
 
-Welcome ! Since September 2024, I am a **PhD student in Mathematics** at Ecole Polytechnique Fédérale de Lausanne. I work under the supervision of Dimitri Wyss in the Chair of Arithmetic Geoemtry. 
+Welcome!  
+Since September 2024, I am a **PhD student in Mathematics** at  
+École Polytechnique Fédérale de Lausanne (EPFL).
+
+I work under the supervision of **Dimitri Wyss**  
+in the **Chair of Arithmetic Geometry**.
 
 ---
 
-Before, I was a student at Ecole Normale Supérieure Ulm in Paris and at Sorbonne Université. 
+Previously, I studied at  
+**École Normale Supérieure (Ulm)** in Paris  
+and at **Sorbonne Université**.
 
 ---
 
-Email: elsa(dot)maneval(at)epfl(dot)ch
+## Research Interests
+
+I work in **enumerative geometry**.  
+In particular, I am interested in the use of **\(p\)-adic** and **motivic integration**
+techniques on **moduli spaces of Higgs bundles**.
 
 ---
 
-I work in the area of enumerative geometry. In particular, I am focusing on the use of p-adic and motivic integration techniques on moduli spaces of Higgs bundles.
+## Publications & Preprints
 
-## Research
+- *Non-archimedean topological mirror symmetry for*  
+  *\( \mathrm{SL}_n \) and \( \mathrm{PGL}_n \) Higgs bundles*, 2025.  
+  [arXiv:2507.02588](https://arxiv.org/abs/2507.02588)
 
-- *Non-archimedean topological mirror symmetry for SLn and PGLn Higgs bundles*, 2025. [arXiv](#2507.02588)
+---
 
 ## Talks
 
+*(to be updated)*
+
+---
 
 ## Teaching
 
+*(to be updated)*
+
+---
 
 ## Contact
 
+- Email: `elsa.maneval [at] epfl [dot] ch`
+- Office : MA B3 515
 
 
