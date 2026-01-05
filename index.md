@@ -7,7 +7,7 @@ title: Elsa Maneval
 
 Welcome ! Since September 2024, I am a **PhD student in Mathematics** at Ecole Polytechnique Fédérale de Lausanne. I work under the supervision of Dimitri Wyss in the Chair of Arithmetic Geoemtry. 
 
---
+---
 
 Before, I was a student at Ecole Normale Supérieure Ulm in Paris and at Sorbonne Université. 
 
