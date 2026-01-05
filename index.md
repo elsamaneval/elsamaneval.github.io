@@ -5,7 +5,8 @@ title: Elsa Maneval
 
 # Elsa Maneval
 
-Welcome!  
+Welcome to my webpage !
+
 Since September 2024, I am a **PhD student in Mathematics** at École Polytechnique Fédérale de Lausanne (EPFL).
 
 I work under the supervision of **Dimitri Wyss** in the **Chair of Arithmetic Geometry**.
