@@ -9,16 +9,26 @@ title: Elsa Maneval
 
 
   <div style="flex: 1;">
-Welcome to my webpage !
+   Welcome to my webpage!
 
-Since September 2024, I am a **PhD student in Mathematics** at École Polytechnique Fédérale de Lausanne (EPFL).
+   
+      Since September 2024, I am a <strong>PhD student in Mathematics</strong>
+      at École Polytechnique Fédérale de Lausanne (EPFL).
+  
 
-I work under the supervision of **Dimitri Wyss** in the **Chair of Arithmetic Geometry**.
-
-Previously, I studied at **École Normale Supérieure (Ulm)** in Paris and at **Sorbonne Université**.
-
-I am interested in the use of **p-adic** and **motivic integration** techniques on **moduli spaces of Higgs bundles** and their **mirror symmetry** features.
-
+  
+      I work under the supervision of <strong>Dimitri Wyss</strong> in the
+      <strong>Chair of Arithmetic Geometry</strong>.
+   
+ 
+      Previously, I studied at <strong>École Normale Supérieure (Ulm)</strong>
+      in Paris and at <strong>Sorbonne Université</strong>.
+ 
+      I am interested in the use of <strong>p-adic</strong> and
+      <strong>motivic integration</strong> techniques on
+      <strong>moduli spaces of Higgs bundles</strong> and their
+      <strong>mirror symmetry</strong> features.
+   
   </div>
 
   <figure style="margin: 0; text-align: center;">
