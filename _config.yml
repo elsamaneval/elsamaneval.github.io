@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-#source: SebiSchlegel.github.io
+
 incremental: false
 highlighter: rouge
 gist:
