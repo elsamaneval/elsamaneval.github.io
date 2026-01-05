@@ -6,29 +6,17 @@ title: Elsa Maneval
 # Elsa Maneval
 
 Welcome!  
-Since September 2024, I am a **PhD student in Mathematics** at  
-École Polytechnique Fédérale de Lausanne (EPFL).
+Since September 2024, I am a **PhD student in Mathematics** at École Polytechnique Fédérale de Lausanne (EPFL).
 
-I work under the supervision of **Dimitri Wyss**  
-in the **Chair of Arithmetic Geometry**.
+I work under the supervision of **Dimitri Wyss** in the **Chair of Arithmetic Geometry**.
 
----
+Previously, I studied at **École Normale Supérieure (Ulm)** in Paris and at **Sorbonne Université**.
 
-Previously, I studied at  
-**École Normale Supérieure (Ulm)** in Paris  
-and at **Sorbonne Université**.
+I am interested in the use of **\(p\)-adic** and **motivic integration** techniques on **moduli spaces of Higgs bundles** and their **mirror symmetry** features.
 
 ---
 
-## Research Interests
-
-I work in **enumerative geometry**.  
-In particular, I am interested in the use of **\(p\)-adic** and **motivic integration**
-techniques on **moduli spaces of Higgs bundles**.
-
----
-
-## Publications & Preprints
+## Research
 
 - *Non-archimedean topological mirror symmetry for*  
   *\( \mathrm{SL}_n \) and \( \mathrm{PGL}_n \) Higgs bundles*, 2025.  
@@ -36,7 +24,13 @@ techniques on **moduli spaces of Higgs bundles**.
 
 ---
 
-## Talks
+## Upcoming Talks & Travel
+
+*(to be updated)*
+
+---
+
+## Past Talks & Travel
 
 *(to be updated)*
 
