@@ -1,4 +1,4 @@
----
+v---
 layout: default
 title: Elsa Maneval
 ---
@@ -50,7 +50,7 @@ I am interested in the use of **p-adic** and **motivic integration** techniques 
 - Fall 2024 : *Structures fondamentales*, Bachelor 1, lectured by Dimitri Wyss, EPFL (Principal Teaching Assistant)
 - Spring 2024 : *Algebraic Curves*, Bachelor 3, lectured by Dimitri Wyss, EPFL (Solution sheets writing)
 - Fall 2023 : *Structures algébriques*, Bachelor 1, lectured by Dimitri Wyss, EPFL (Teaching Assistant)
-- 2020-2021 : Khôlles MP<sup>*</sup>, Lycée Condorcet, Paris (Weekly oral exams for 2nd year students in *Classes Prépa*)
+- 2020-2021 : Khôlles MP<sup>★</sup> , Lycée Condorcet, Paris (Weekly oral exams for 2nd year students in *Classes Prépa*)
   
 ---
 
