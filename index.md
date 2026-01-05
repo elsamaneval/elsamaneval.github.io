@@ -38,11 +38,8 @@ title: Elsa Maneval
   <figure style="margin: 0; text-align: center;">
     <img src="images/me.jpg"
          alt="Elsa Maneval"
-         width="180"
+         width="250"
          style="border-radius: 10px;">
-    <figcaption style="font-size: 0.85em; color: #555; margin-top: 6px;">
-      at Maison Poincaré, Paris
-    </figcaption>
   </figure>
 
 </div>
