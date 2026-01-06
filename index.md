@@ -27,7 +27,7 @@ title: Elsa Maneval
     </p>
 
     <p>
-      I am interested in the use of <strong> \( p \) -adic</strong> and
+      I am interested in the use of <strong> \(p\)-adic</strong> and
       <strong>motivic integration</strong> techniques on
       <strong>moduli spaces of Higgs bundles</strong> and their
       <strong>mirror symmetry</strong> features.
