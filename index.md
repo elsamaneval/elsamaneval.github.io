@@ -45,6 +45,8 @@ title: Elsa Maneval
 </div>
 ---
 
+My favorite Math: $$Y0^u\frac{p}{i}$$
+
 ## Research
 
 - *Non-archimedean topological mirror symmetry for SLn and PGLn Higgs bundles*, 2025. [arXiv:2507.02588](https://arxiv.org/abs/2507.02588)
