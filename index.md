@@ -27,7 +27,7 @@ title: Elsa Maneval
     </p>
 
     <p>
-      I am interested in the use of <strong>p-adic</strong> and
+      I am interested in the use of <strong>$p$-adic</strong> and
       <strong>motivic integration</strong> techniques on
       <strong>moduli spaces of Higgs bundles</strong> and their
       <strong>mirror symmetry</strong> features.
@@ -45,11 +45,11 @@ title: Elsa Maneval
 </div>
 ---
 
-My favorite Math: $$Y0^u\frac{p}{i}$$
+
 
 ## Research
 
-- *Non-archimedean topological mirror symmetry for SLn and PGLn Higgs bundles*, 2025. [arXiv:2507.02588](https://arxiv.org/abs/2507.02588)
+- *Non-archimedean topological mirror symmetry for $$ \mathrm{SL}_n$$ and $$\mathrm{PGL}_n$$ Higgs bundles*, [arXiv:2507.02588](https://arxiv.org/abs/2507.02588).
   
 ---
 
@@ -58,7 +58,7 @@ My favorite Math: $$Y0^u\frac{p}{i}$$
 
 ## Upcoming Talks & Travel
 
-- Winter School *Motives in Montpellier*, Université de Montpellier, 19-23 January 2026 (30' contributed talk)
+- Winter School *Motives in Montpellier*, Université de Montpellier, 19-23 January 2026 (contributed talk)
 - Workshop *Duality for Higgs bundles*, University of Bonn, 26 May 2026 (invited)
 - Workshop *Unifying geometric perspectives on the Hitchin moduli space*, Bernoulli Center EPFL, August 2026 (invited)
 
@@ -69,7 +69,7 @@ My favorite Math: $$Y0^u\frac{p}{i}$$
 - Séminaire Arithmétique et Géométrie Algébrique, IRMA Strasbourg, 18 December 2025 (invited)
 - Rencontre ANR DAG Arts in Angers, Université d'Angers - 28-31 October 2025 (invited)
 - Current trends in Calabi-Yau moduli, IRMA Strasbourg, 10-13 June 2025 (poster)
-- Combinatorial Algebraic Geometry, Goethe University Frankfurt, 31 March-4 April 2025 (7' contributed talk)
+- Combinatorial Algebraic Geometry, Goethe University Frankfurt, 31 March-4 April 2025 (contributed talk)
 
 ---
 
