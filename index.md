@@ -96,7 +96,7 @@ title: Elsa Maneval
 ## Teaching
 
 - Fall 2025 : [*Topology IV.a, Cohomology Rings*](https://edu.epfl.ch/coursebook/en/topology-iv-a-cohomology-rings-MATH-506), Master, lectured by Jerôme Scherer, EPFL (Teaching Assistant)
-- Spring 2025 : [*Topology II; fundamental groups*](https://edu.epfl.ch/coursebook/en/topology-ii-fundamental-groups-MATH-225), Bachelor 2, lectured by Dimitri Wyss, EPFL (Principal Teaching Assistant)
+- Spring 2025 : [*Topology II, fundamental groups*](https://edu.epfl.ch/coursebook/en/topology-ii-fundamental-groups-MATH-225), Bachelor 2, lectured by Dimitri Wyss, EPFL (Principal Teaching Assistant)
 - Fall 2024 : [*Algèbre I, Structures fondamentales*](https://edu.epfl.ch/coursebook/fr/algebre-i-structures-fondamentales-MATH-113), Bachelor 1, lectured by Dimitri Wyss, EPFL (Principal Teaching Assistant)
 - Spring 2024 : [*Algebraic Geometry I, curves*](https://edu.epfl.ch/coursebook/en/algebraic-geometry-i-curves-MATH-328), Bachelor 3, lectured by Dimitri Wyss, EPFL (Solution sheets writing)
 - Fall 2023 :  [*Algèbre I, Structures fondamentales*](https://edu.epfl.ch/coursebook/fr/algebre-i-structures-fondamentales-MATH-113), Bachelor 1, lectured by Dimitri Wyss, EPFL (Teaching Assistant)
