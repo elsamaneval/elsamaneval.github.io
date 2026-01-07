@@ -63,7 +63,7 @@ title: Elsa Maneval
   
   invited talk
   
-- Workshop *Unifying geometric perspectives on the Hitchin moduli space*, Bernoulli Center EPFL, August 2026
+- Workshop [*Unifying geometric perspectives on the Hitchin moduli space*](https://bernoulli.epfl.ch/programs/unifying-geometric-perspectives-on-the-hitchin-moduli-space/), Bernoulli Center EPFL, 10-14 August 2026
 
   invited talk
 
@@ -81,12 +81,15 @@ title: Elsa Maneval
   
 - [Current trends in Calabi-Yau moduli](https://irma.math.unistra.fr/~lfu/Activities/Conference-Moduli-Strasbourg.html), Strasbourg, 10-13 June 2025
 
-poster
+  poster *Mirror symmetry of moduli spaces of Higgs bundles*
 
-- Women in Mathematics Conference, EPFL, 15-16 May 2025
-  
+- [Women in Mathematics Conference](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/), EPFL, 15-16 May 2025
+    
   contributed talk : *Arithmetic methods in enumerative geometry*
-- Combinatorial Algebraic Geometry, Goethe University Frankfurt, 31 March-4 April 2025 (contributed talk)
+  
+- [Combinatorial Algebraic Geometry](https://sites.google.com/view/coalggeohug/home), Goethe University Frankfurt, 31 March-4 April 2025
+
+  short talk : *The non-coprime case of the Hausel-Thaddeus Conjecture and \(p\)-adic Integration*
 
 ---
 
