@@ -81,7 +81,7 @@ title: Elsa Maneval
   
 - Conference [Current trends in Calabi-Yau moduli](https://irma.math.unistra.fr/~lfu/Activities/Conference-Moduli-Strasbourg.html), Strasbourg, 10-13 June 2025
 
-  poster *Mirror symmetry of moduli spaces of Higgs bundles*
+  poster : *Mirror symmetry of moduli spaces of Higgs bundles*
 
 - Conference [Women in Mathematics](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/), EPFL, 15-16 May 2025
     
@@ -89,7 +89,7 @@ title: Elsa Maneval
   
 - Conference [Combinatorial Algebraic Geometry](https://sites.google.com/view/coalggeohug/home), Frankfurt, 31 March-4 April 2025
 
-  short talk : *The non-coprime case of the Hausel-Thaddeus Conjecture and \(p\)-adic Integration*
+  short talk : *The non-coprime case of the Hausel-Thaddeus Conjecture and $$p$$-adic Integration*
 
 ---
 
@@ -106,7 +106,7 @@ title: Elsa Maneval
 
 ## Learning groups
 
-- In Fall 2025, with Sebastian Schlegel Mejia, we organised a [learning group](https://edu.epfl.ch/coursebook/fr/cohomology-of-symmetric-stacks-MATH-675) on the preprint [Cohomology of Symmetric Stacks](https://arxiv.org/abs/2502.04253).
+- In Fall 2025, with [Sebastian Schlegel Mejia](https://sebastianschlegelmejia.com/), we organised a [learning group](https://edu.epfl.ch/coursebook/fr/cohomology-of-symmetric-stacks-MATH-675) on the preprint [Cohomology of Symmetric Stacks](https://arxiv.org/abs/2502.04253).
 - In Fall 2024, with Archi Kaushik, we organised a learning group on *Intersection (Co)homology and Perverse Sheaves*. 
 
 ## Contact
