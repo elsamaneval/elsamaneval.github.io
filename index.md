@@ -75,19 +75,19 @@ title: Elsa Maneval
 
   invited talk : *Higgs bundles and mirror symmetry*
   
-- [Rencontre ANR DAG Arts](https://sites.google.com/view/dag-arts/%C3%A9v%C3%A9nements/1%C3%A8re-rencontre-anr), Angers, 29-31 October 2025
+- Conference [Rencontre ANR DAG Arts](https://sites.google.com/view/dag-arts/%C3%A9v%C3%A9nements/1%C3%A8re-rencontre-anr), Angers, 29-31 October 2025
 
    invited talk : *Higgs bundles and mirror symmetry*
   
-- [Current trends in Calabi-Yau moduli](https://irma.math.unistra.fr/~lfu/Activities/Conference-Moduli-Strasbourg.html), Strasbourg, 10-13 June 2025
+- Conference [Current trends in Calabi-Yau moduli](https://irma.math.unistra.fr/~lfu/Activities/Conference-Moduli-Strasbourg.html), Strasbourg, 10-13 June 2025
 
   poster *Mirror symmetry of moduli spaces of Higgs bundles*
 
-- [Women in Mathematics Conference](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/), EPFL, 15-16 May 2025
+- Conference [Women in Mathematics](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/), EPFL, 15-16 May 2025
     
   contributed talk : *Arithmetic methods in enumerative geometry*
   
-- [Combinatorial Algebraic Geometry](https://sites.google.com/view/coalggeohug/home), Goethe University Frankfurt, 31 March-4 April 2025
+- Conference [Combinatorial Algebraic Geometry](https://sites.google.com/view/coalggeohug/home), Frankfurt, 31 March-4 April 2025
 
   short talk : *The non-coprime case of the Hausel-Thaddeus Conjecture and \(p\)-adic Integration*
 
@@ -95,11 +95,11 @@ title: Elsa Maneval
 
 ## Teaching
 
-- Fall 2025 : *Topology IV, Cohomology Rings*, Master, lectured by Jerôme Scherer, EPFL (Teaching Assistant)
-- Spring 2025 : *Topology II*, Bachelor 2, lectured by Dimitri Wyss, EPFL (Principal Teaching Assistant)
-- Fall 2024 : *Structures fondamentales*, Bachelor 1, lectured by Dimitri Wyss, EPFL (Principal Teaching Assistant)
-- Spring 2024 : *Algebraic Curves*, Bachelor 3, lectured by Dimitri Wyss, EPFL (Solution sheets writing)
-- Fall 2023 : *Structures algébriques*, Bachelor 1, lectured by Dimitri Wyss, EPFL (Teaching Assistant)
+- Fall 2025 : [*Topology IV.a, Cohomology Rings*](https://edu.epfl.ch/coursebook/en/topology-iv-a-cohomology-rings-MATH-506), Master, lectured by Jerôme Scherer, EPFL (Teaching Assistant)
+- Spring 2025 : [*Topology II; fundamental groups*](https://edu.epfl.ch/coursebook/en/topology-ii-fundamental-groups-MATH-225), Bachelor 2, lectured by Dimitri Wyss, EPFL (Principal Teaching Assistant)
+- Fall 2024 : [*Algèbre I, Structures fondamentales*](https://edu.epfl.ch/coursebook/fr/algebre-i-structures-fondamentales-MATH-113), Bachelor 1, lectured by Dimitri Wyss, EPFL (Principal Teaching Assistant)
+- Spring 2024 : [*Algebraic Geometry I, curves*](https://edu.epfl.ch/coursebook/en/algebraic-geometry-i-curves-MATH-328), Bachelor 3, lectured by Dimitri Wyss, EPFL (Solution sheets writing)
+- Fall 2023 :  [*Algèbre I, Structures fondamentales*](https://edu.epfl.ch/coursebook/fr/algebre-i-structures-fondamentales-MATH-113), Bachelor 1, lectured by Dimitri Wyss, EPFL (Teaching Assistant)
 - 2020-2021 : Khôlles MP<sup>★</sup> , Lycée Condorcet, Paris (Weekly oral exams for 2nd year students in *Classes Prépa*)
   
 ---
