@@ -18,19 +18,18 @@ title: Elsa Maneval
 
     <p>
       I work under the supervision of <strong>Dimitri Wyss</strong> in the
-      <strong>Chair of Arithmetic Geometry</strong>.
+      [<strong>Chair of Arithmetic Geometry</strong>](https://www.epfl.ch/labs/arg/arg-chair-of-arithmetic-geometry/members/).
     </p>
 
     <p>
-      Previously, I studied at <strong>École Normale Supérieure (Ulm)</strong>
-      in Paris and at <strong>Sorbonne Université</strong>.
+      Previously, I studied at <strong>École Normale Supérieure Ulm</strong> and at <strong>Sorbonne Université</strong> in Paris.
     </p>
 
     <p>
-      I am interested in the use of <strong> \(p\)-adic</strong> and
+     My field of research is enumerative geometry. Precisely, I am interested in the use of <strong> \(p\)-adic</strong> and
       <strong>motivic integration</strong> techniques on
       <strong>moduli spaces of Higgs bundles</strong> and their
-      <strong>mirror symmetry</strong> features.
+      <strong>mirror symmetry</strong> features. 
     </p>
    
   </div>
@@ -58,17 +57,36 @@ title: Elsa Maneval
 
 ## Upcoming Talks & Travel
 
-- Winter School *Motives in Montpellier*, Université de Montpellier, 19-23 January 2026 (contributed talk)
-- Workshop *Duality for Higgs bundles*, University of Bonn, 26 May 2026 (invited)
-- Workshop *Unifying geometric perspectives on the Hitchin moduli space*, Bernoulli Center EPFL, August 2026 (invited)
+- Winter School [*Motives in Montpellier*](https://imag.umontpellier.fr/~tomic/school2026/), IMAG, Université de Montpellier, 19-23 January 2026
+
+  contributed talk : *motivic BPS invariants and integrals*
+- Workshop [*Duality for Higgs bundles*](https://sites.google.com/view/higgs26/), University of Bonn, 26 May 2026
+  
+  invited talk
+  
+- Workshop *Unifying geometric perspectives on the Hitchin moduli space*, Bernoulli Center EPFL, August 2026
+
+  invited talk
 
 ---
 
 ## Past Talks & Travel
 
-- Séminaire Arithmétique et Géométrie Algébrique, IRMA Strasbourg, 18 December 2025 (invited)
-- Rencontre ANR DAG Arts in Angers, Université d'Angers - 28-31 October 2025 (invited)
-- Current trends in Calabi-Yau moduli, IRMA Strasbourg, 10-13 June 2025 (poster)
+- [Séminaire Arithmétique et Géométrie Algébrique](https://irma.math.unistra.fr/seminaires/seminaire-arithmetique-et-geometrie-algebrique.html), Strasbourg, 18 December 2025
+
+  invited talk : *Higgs bundles and mirror symmetry*
+  
+- [Rencontre ANR DAG Arts](https://sites.google.com/view/dag-arts/%C3%A9v%C3%A9nements/1%C3%A8re-rencontre-anr), Angers, 29-31 October 2025
+
+   invited talk : *Higgs bundles and mirror symmetry*
+  
+- [Current trends in Calabi-Yau moduli](https://irma.math.unistra.fr/~lfu/Activities/Conference-Moduli-Strasbourg.html), Strasbourg, 10-13 June 2025
+
+poster
+
+- Women in Mathematics Conference, EPFL, 15-16 May 2025
+  
+  contributed talk : *Arithmetic methods in enumerative geometry*
 - Combinatorial Algebraic Geometry, Goethe University Frankfurt, 31 March-4 April 2025 (contributed talk)
 
 ---
