@@ -5,16 +5,6 @@ title: Elsa Maneval
 
 # Elsa Maneval
 
-| ![Elsa Maneval](images/me.jpg) | Welcome to my webpage!<br><br>
-Since September 2024, I am a **PhD student in Mathematics** at École Polytechnique Fédérale de Lausanne (EPFL).<br><br>
-I work under the supervision of **Dimitri Wyss** in the
-[**Chair of Arithmetic Geometry**](https://www.epfl.ch/labs/arg/arg-chair-of-arithmetic-geometry/members/).<br><br>
-Previously, I studied at **École Normale Supérieure Ulm** and at **Sorbonne Université** in Paris.<br><br>
-My field of research is **enumerative geometry**. Precisely, I am interested in the use of **\(p\)-adic** and
-**motivic integration** techniques on **moduli spaces of Higgs bundles** and their
-**mirror symmetry** features. |
-|:--:|:--|
-
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
 
@@ -27,8 +17,7 @@ My field of research is **enumerative geometry**. Precisely, I am interested in 
     </p>
 
     <p>
-      I work under the supervision of <strong>Dimitri Wyss</strong> in the
-      [<strong>Chair of Arithmetic Geometry</strong>](https://www.epfl.ch/labs/arg/arg-chair-of-arithmetic-geometry/members/).
+      I work under the supervision of <strong>Dimitri Wyss</strong> in the <a href="https://www.epfl.ch/labs/arg/arg-chair-of-arithmetic-geometry/members/" target="_blank">Chair of Arithmetic Geometry</a>.
     </p>
 
     <p>
