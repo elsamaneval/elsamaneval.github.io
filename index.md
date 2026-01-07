@@ -36,7 +36,7 @@ title: Elsa Maneval
   <figure style="margin: 0; text-align: center;">
     <img src="images/me.jpg"
          alt="Elsa Maneval"
-         width="250"
+         width="300"
          style="border-radius: 10px;">
   </figure>
 
