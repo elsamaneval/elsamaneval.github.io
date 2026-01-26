@@ -56,7 +56,7 @@ title: Elsa Maneval
 
 ## Upcoming Talks & Travel
 
-- Winter School [*Motives in Montpellier*](https://imag.umontpellier.fr/~tomic/school2026/), IMAG, Université de Montpellier, 19-23 January 2026
+- ISTA 
 
   contributed talk : *motivic BPS invariants and integrals*
 - Workshop [*Duality for Higgs bundles*](https://sites.google.com/view/higgs26/), University of Bonn, 26 May 2026
@@ -70,6 +70,8 @@ title: Elsa Maneval
 ---
 
 ## Past Talks & Travel
+
+- Winter School [*Motives in Montpellier*](https://imag.umontpellier.fr/~tomic/school2026/), IMAG, Université de Montpellier, 19-23 January 2026
 
 - [Séminaire Arithmétique et Géométrie Algébrique](https://irma.math.unistra.fr/seminaires/seminaire-arithmetique-et-geometrie-algebrique.html), Strasbourg, 18 December 2025
 
