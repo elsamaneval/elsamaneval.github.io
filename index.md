@@ -56,9 +56,9 @@ title: Elsa Maneval
 
 ## Upcoming Talks & Travel
 
-- ISTA 
+- [Algebra, Geometry and Topology Seminar](https://algebraic-geometry.pages.ist.ac.at/), IST Austria, March 5, 2026
 
-- Workshop [*Duality for Higgs bundles*](https://sites.google.com/view/higgs26/), University of Bonn, 26 May 2026
+- Workshop [*Duality for Higgs bundles*](https://sites.google.com/view/higgs26/), University of Bonn, May 26, 2026
   
   invited talk
   
