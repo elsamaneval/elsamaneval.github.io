@@ -58,7 +58,6 @@ title: Elsa Maneval
 
 - ISTA 
 
-  contributed talk : *motivic BPS invariants and integrals*
 - Workshop [*Duality for Higgs bundles*](https://sites.google.com/view/higgs26/), University of Bonn, 26 May 2026
   
   invited talk
@@ -73,6 +72,8 @@ title: Elsa Maneval
 
 - Winter School [*Motives in Montpellier*](https://imag.umontpellier.fr/~tomic/school2026/), IMAG, Université de Montpellier, 19-23 January 2026
 
+  contributed talk : *Towards an integral-theoretic definition of motivic BPS invariants*
+
 - [Séminaire Arithmétique et Géométrie Algébrique](https://irma.math.unistra.fr/seminaires/seminaire-arithmetique-et-geometrie-algebrique.html), Strasbourg, 18 December 2025
 
   invited talk : *Higgs bundles and mirror symmetry*
@@ -83,7 +84,7 @@ title: Elsa Maneval
   
 - Conference [Current trends in Calabi-Yau moduli](https://irma.math.unistra.fr/~lfu/Activities/Conference-Moduli-Strasbourg.html), Strasbourg, 10-13 June 2025
 
-  poster : *Mirror symmetry of moduli spaces of Higgs bundles*
+  poster : *Higgs bundles and mirror symmetry*
 
 - Conference [Women in Mathematics](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/), EPFL, 15-16 May 2025
     
@@ -91,7 +92,7 @@ title: Elsa Maneval
   
 - Conference [Combinatorial Algebraic Geometry](https://sites.google.com/view/coalggeohug/home), Frankfurt, 31 March-4 April 2025
 
-  short talk : *The non-coprime case of the Hausel-Thaddeus Conjecture and $$p$$-adic Integration*
+  short talk : *Higgs bundles and mirror symmetry*
 
 ---
 
