@@ -72,7 +72,7 @@ title: Elsa Maneval
 
 - Winter School [*Motives in Montpellier*](https://imag.umontpellier.fr/~tomic/school2026/), IMAG, Université de Montpellier, 19-23 January 2026
 
-  contributed talk : *Towards an integral-theoretic definition of motivic BPS invariants*
+  contributed talk : *Towards an integral-theoretic definition of motivic BPS invariants* <a href="talk-Montpellier.pdf" target="_blank"> Notes </a>
 
 - [Séminaire Arithmétique et Géométrie Algébrique](https://irma.math.unistra.fr/seminaires/seminaire-arithmetique-et-geometrie-algebrique.html), Strasbourg, 18 December 2025
 
