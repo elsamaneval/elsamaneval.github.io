@@ -103,14 +103,21 @@ title: Elsa Maneval
 - Fall 2024 : [*Algèbre I, Structures fondamentales*](https://edu.epfl.ch/coursebook/fr/algebre-i-structures-fondamentales-MATH-113), Bachelor 1, lectured by Dimitri Wyss, EPFL (Principal Teaching Assistant)
 - Spring 2024 : [*Algebraic Geometry I, curves*](https://edu.epfl.ch/coursebook/en/algebraic-geometry-i-curves-MATH-328), Bachelor 3, lectured by Dimitri Wyss, EPFL (Solution sheets writing)
 - Fall 2023 :  [*Algèbre I, Structures fondamentales*](https://edu.epfl.ch/coursebook/fr/algebre-i-structures-fondamentales-MATH-113), Bachelor 1, lectured by Dimitri Wyss, EPFL (Teaching Assistant)
-- 2020-2021 : Khôlles MP<sup>★</sup> , Lycée Condorcet, Paris (Weekly oral exams for 2nd year students in *Classes Prépa*)
+- 2020-2021 : Khôlles MP\* , Lycée Condorcet, Paris (Weekly oral exams for 2nd year students in *Classes Prépa*)
   
+---
+
+## Project Supervision 
+- Spring 2025 : Szpiro’s inequality, Bachelor Thesis, Gabriel Guitart Stamatopol
+
 ---
 
 ## Learning groups
 
 - In Fall 2025, with [Sebastian Schlegel Mejia](https://sebastianschlegelmejia.com/), we organised a [learning group](https://edu.epfl.ch/coursebook/fr/cohomology-of-symmetric-stacks-MATH-675) on the preprint [Cohomology of Symmetric Stacks](https://arxiv.org/abs/2502.04253).
-- In Fall 2024, with Archi Kaushik, we organised a learning group on *Intersection (Co)homology and Perverse Sheaves*. 
+- In Fall 2024, with Archi Kaushik, we organised a learning group on *Intersection (Co)homology and Perverse Sheaves*.
+
+---
 
 ## Contact
 
