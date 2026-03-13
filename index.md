@@ -56,42 +56,35 @@ title: Elsa Maneval
 
 ## Upcoming Talks & Travel
 
-- [Algebra, Geometry and Topology Seminar](https://algebraic-geometry.pages.ist.ac.at/), IST Austria, March 5, 2026
-
 - Workshop [*Duality for Higgs bundles*](https://sites.google.com/view/higgs26/), University of Bonn, May 26, 2026
-  
   invited talk
   
 - Workshop [*Unifying geometric perspectives on the Hitchin moduli space*](https://bernoulli.epfl.ch/programs/unifying-geometric-perspectives-on-the-hitchin-moduli-space/), Bernoulli Center EPFL, 10-14 August 2026
-
   invited talk
 
 ---
 
 ## Past Talks & Travel
 
+- [Algebra, Geometry and Topology Seminar](https://algebraic-geometry.pages.ist.ac.at/), IST Austria, March 5, 2026
+  invited talk : *Higgs bundles and mirror symmetry*
+  
 - Winter School [*Motives in Montpellier*](https://imag.umontpellier.fr/~tomic/school2026/), IMAG, Université de Montpellier, 19-23 January 2026
-
   contributed talk : *Towards an integral-theoretic definition of motivic BPS invariants* <a href="Talk_Montpellier.pdf" target="_blank"> Notes </a>
 
 - [Séminaire Arithmétique et Géométrie Algébrique](https://irma.math.unistra.fr/seminaires/seminaire-arithmetique-et-geometrie-algebrique.html), Strasbourg, 18 December 2025
-
   invited talk : *Higgs bundles and mirror symmetry*
   
 - Conference [Rencontre ANR DAG Arts](https://sites.google.com/view/dag-arts/%C3%A9v%C3%A9nements/1%C3%A8re-rencontre-anr), Angers, 29-31 October 2025
-
-   invited talk : *Higgs bundles and mirror symmetry*
+  invited talk : *Higgs bundles and mirror symmetry*
   
 - Conference [Current trends in Calabi-Yau moduli](https://irma.math.unistra.fr/~lfu/Activities/Conference-Moduli-Strasbourg.html), Strasbourg, 10-13 June 2025
-
   poster : *Higgs bundles and mirror symmetry*
 
 - Conference [Women in Mathematics](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/), EPFL, 15-16 May 2025
-    
   contributed talk : *Arithmetic methods in enumerative geometry*
   
 - Conference [Combinatorial Algebraic Geometry](https://sites.google.com/view/coalggeohug/home), Frankfurt, 31 March-4 April 2025
-
   short talk : *Higgs bundles and mirror symmetry*
 
 ---
