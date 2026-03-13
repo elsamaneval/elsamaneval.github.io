@@ -56,10 +56,10 @@ title: Elsa Maneval
 
 ## Upcoming Talks & Travel
 
-- Workshop [*Duality for Higgs bundles*](https://sites.google.com/view/higgs26/), University of Bonn, May 26, 2026  
+- Workshop [*Duality for Higgs bundles*](https://sites.google.com/view/higgs26/), University of Bonn, May 26, 2026  \
   invited talk
   
-- Workshop [*Unifying geometric perspectives on the Hitchin moduli space*](https://bernoulli.epfl.ch/programs/unifying-geometric-perspectives-on-the-hitchin-moduli-space/), Bernoulli Center EPFL, 10-14 August 2026
+- Workshop [*Unifying geometric perspectives on the Hitchin moduli space*](https://bernoulli.epfl.ch/programs/unifying-geometric-perspectives-on-the-hitchin-moduli-space/), Bernoulli Center EPFL, 10-14 August 2026 \
   invited talk
 
 ---
