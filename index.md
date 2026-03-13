@@ -58,7 +58,6 @@ title: Elsa Maneval
 
 - Workshop [*Duality for Higgs bundles*](https://sites.google.com/view/higgs26/), University of Bonn, May 26, 2026  \
   invited talk
-  
 - Workshop [*Unifying geometric perspectives on the Hitchin moduli space*](https://bernoulli.epfl.ch/programs/unifying-geometric-perspectives-on-the-hitchin-moduli-space/), Bernoulli Center EPFL, 10-14 August 2026 \
   invited talk
 
@@ -67,30 +66,24 @@ title: Elsa Maneval
 ## Past Talks & Travel
 
 - [Algebra, Geometry and Topology Seminar](https://algebraic-geometry.pages.ist.ac.at/), IST Austria, March 5, 2026 \
-  invited talk : *Higgs bundles and mirror symmetry*
-  
+  invited talk : *Higgs bundles and mirror symmetry* 
 - Winter School [*Motives in Montpellier*](https://imag.umontpellier.fr/~tomic/school2026/), IMAG, Université de Montpellier, 19-23 January 2026 \
   contributed talk : *Towards an integral-theoretic definition of motivic BPS invariants* <a href="Talk_Montpellier.pdf" target="_blank"> Notes </a>
-
 - [Séminaire Arithmétique et Géométrie Algébrique](https://irma.math.unistra.fr/seminaires/seminaire-arithmetique-et-geometrie-algebrique.html), Strasbourg, 18 December 2025 \
   invited talk : *Higgs bundles and mirror symmetry*
-  
 - Conference [Rencontre ANR DAG Arts](https://sites.google.com/view/dag-arts/%C3%A9v%C3%A9nements/1%C3%A8re-rencontre-anr), Angers, 29-31 October 2025 \
   invited talk : *Higgs bundles and mirror symmetry*
-  
 - Conference [Current trends in Calabi-Yau moduli](https://irma.math.unistra.fr/~lfu/Activities/Conference-Moduli-Strasbourg.html), Strasbourg, 10-13 June 2025 \
   poster : *Higgs bundles and mirror symmetry*
-
 - Conference [Women in Mathematics](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/), EPFL, 15-16 May 2025 \
   contributed talk : *Arithmetic methods in enumerative geometry*
-  
 - Conference [Combinatorial Algebraic Geometry](https://sites.google.com/view/coalggeohug/home), Frankfurt, 31 March-4 April 2025 \
   short talk : *Higgs bundles and mirror symmetry*
 
 ---
 
 ## Teaching
-
+- Spring 2026 : [*Topology II, fundamental groups*](https://edu.epfl.ch/coursebook/en/topology-ii-fundamental-groups-MATH-225), Bachelor 2, lectured by Dimitri Wyss, EPFL \(Teaching Assistant)
 - Fall 2025 : [*Topology IV.a, Cohomology Rings*](https://edu.epfl.ch/coursebook/en/topology-iv-a-cohomology-rings-MATH-506), Master, lectured by Jerôme Scherer, EPFL \(Teaching Assistant)
 - Spring 2025 : [*Topology II, fundamental groups*](https://edu.epfl.ch/coursebook/en/topology-ii-fundamental-groups-MATH-225), Bachelor 2, lectured by Dimitri Wyss, EPFL \(Principal Teaching Assistant)
 - Fall 2024 : [*Algèbre I, Structures fondamentales*](https://edu.epfl.ch/coursebook/fr/algebre-i-structures-fondamentales-MATH-113), Bachelor 1, lectured by Dimitri Wyss, EPFL \
@@ -105,6 +98,7 @@ title: Elsa Maneval
 
 ## Project Supervision 
 - Spring 2025 : Szpiro’s inequality, Bachelor Thesis, Gabriel Guitart Stamatopol
+
 
 ---
 
