@@ -114,7 +114,7 @@ title: Elsa Maneval
 ## Outreach
 
 During my studies at ENS, I took a gap year (2022-2023), during which I worked for mathematical outreach projects. 
-- I worked for six months at *Maison des Mathématiques et de l'Informatique* in Lyon, where, among other things, I designed an exhibition booklet for the exhibition *Dans ma cuisine, les mathématiques et l'informatique se mettent à table*
+- I worked for six months at *Maison des Mathématiques et de l'Informatique* in Lyon, where, among other things, I designed an exhibition booklet for the exhibition [*Dans ma cuisine, les mathématiques et l'informatique se mettent à table*](https://mmi.universite-lyon.fr/pour-le-grand-public/par-activites/exposition/dans-ma-cuisine-388400.kjsp?RH=1747728981875)
 - I worked as a scientific advisor for the animated series [*Voyage au pays des maths*]((https://www.arte.tv/fr/videos/RC-021426/voyages-au-pays-des-maths/)) by Denis van Waerebeke. 
 
 ---
