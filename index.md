@@ -76,7 +76,7 @@ title: Elsa Maneval
 - Conference [Rencontre ANR DAG Arts](https://sites.google.com/view/dag-arts/%C3%A9v%C3%A9nements/1%C3%A8re-rencontre-anr), Angers, 29-31 October 2025 \
   invited talk : *Higgs bundles and mirror symmetry*
 - Conference [Current trends in Calabi-Yau moduli](https://irma.math.unistra.fr/~lfu/Activities/Conference-Moduli-Strasbourg.html), Strasbourg, 10-13 June 2025 \
-  poster : *Higgs bundles and mirror symmetry*
+  <a href="Poster_Strasbourg.pdf" target="_blank"> Poster  </a> : *Higgs bundles and mirror symmetry* 
 - Conference [Women in Mathematics](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/), EPFL, 15-16 May 2025 \
   contributed talk : *Arithmetic methods in enumerative geometry*
 - Conference [Combinatorial Algebraic Geometry](https://sites.google.com/view/coalggeohug/home), Frankfurt, 31 March-4 April 2025 \
