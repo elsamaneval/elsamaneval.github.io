@@ -107,7 +107,7 @@ title: Elsa Maneval
 ## Learning groups
 
 - In Fall 2025, with [Sebastian Schlegel Mejia](https://sebastianschlegelmejia.com/), we organised a [learning group](https://edu.epfl.ch/coursebook/fr/cohomology-of-symmetric-stacks-MATH-675) on the preprint [Cohomology of Symmetric Stacks](https://arxiv.org/abs/2502.04253).
-- In Fall 2024, with Archi Kaushik, we organised a learning group on *Intersection (Co)homology and Perverse Sheaves*.
+- In Fall 2024, with [Archi Kaushik](https://people.epfl.ch/archi.kaushik?lang=en), we organised a learning group on *Intersection (Co)homology and Perverse Sheaves*.
 
 ---
 
