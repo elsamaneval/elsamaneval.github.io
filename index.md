@@ -47,7 +47,7 @@ title: Elsa Maneval
 
 ## Research
 
-- *Non-archimedean topological mirror symmetry for $$ \mathrm{SL}_n$$ and $$\mathrm{PGL}_n$$ Higgs bundles*, [arXiv:2507.02588](https://arxiv.org/abs/2507.02588).
+- *Non-archimedean topological mirror symmetry for $$ \mathrm{SL}_n$$ and $$\mathrm{PGL}_n$$ Higgs bundles*, [arXiv:2507.02588](https://arxiv.org/abs/2507.02588), accepted in **Algebraic Geometry**.
 
 
 ---
