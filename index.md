@@ -71,7 +71,7 @@ title: Elsa Maneval
 - [Algebra, Geometry and Topology Seminar](https://algebraic-geometry.pages.ist.ac.at/), IST Austria, 5 March 2026 \
   invited talk : *Higgs bundles and mirror symmetry* 
 - Winter School [*Motives in Montpellier*](https://imag.umontpellier.fr/~tomic/school2026/), IMAG, Université de Montpellier, 19-23 January 2026 \
-  contributed talk : *Towards an integral-theoretic definition of motivic BPS invariants* <a href="Talk_Montpellier.pdf" target="_blank"> Notes </a>
+  contributed talk : *Motivic BPS invariants as motivic integrals (in progress)* <a href="Talk_Montpellier.pdf" target="_blank"> Notes </a>
 - [Séminaire Arithmétique et Géométrie Algébrique](https://irma.math.unistra.fr/seminaires/seminaire-arithmetique-et-geometrie-algebrique.html), Strasbourg, 18 December 2025 \
   invited talk : *Higgs bundles and mirror symmetry*
 - Conference [Rencontre ANR DAG Arts](https://sites.google.com/view/dag-arts/%C3%A9v%C3%A9nements/1%C3%A8re-rencontre-anr), Angers, 29-31 October 2025 \
