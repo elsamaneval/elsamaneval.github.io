@@ -57,8 +57,6 @@ title: Elsa Maneval
 
 ## Upcoming Talks & Travel
 
-- Workshop [*Duality for Higgs bundles*](https://sites.google.com/view/higgs26/), University of Bonn, 26 May 2026  \
-  invited talk
 - Workshop [*Geometric Representation Theory*](https://grt-workshop.sciencesconf.org/?lang=en), Amiens, 29 June-1 July 2026 \
   invited talk
 - Workshop [*Unifying geometric perspectives on the Hitchin moduli space*](https://bernoulli.epfl.ch/programs/unifying-geometric-perspectives-on-the-hitchin-moduli-space/), Bernoulli Center EPFL, 10-14 August 2026 \
@@ -68,6 +66,8 @@ title: Elsa Maneval
 
 ## Past Talks & Travel
 
+- Workshop [*Duality for Higgs bundles*](https://sites.google.com/view/higgs26/), University of Bonn, 26 May 2026  \
+  invited talk
 - [Algebra, Geometry and Topology Seminar](https://algebraic-geometry.pages.ist.ac.at/), IST Austria, 5 March 2026 \
   invited talk : *Higgs bundles and mirror symmetry* 
 - Winter School [*Motives in Montpellier*](https://imag.umontpellier.fr/~tomic/school2026/), IMAG, Université de Montpellier, 19-23 January 2026 \
