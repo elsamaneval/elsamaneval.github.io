@@ -49,11 +49,7 @@ title: Elsa Maneval
 
 - *Non-archimedean topological mirror symmetry for $$ \mathrm{SL}_n$$ and $$\mathrm{PGL}_n$$ Higgs bundles*, [arXiv:2507.02588](https://arxiv.org/abs/2507.02588), accepted in **Algebraic Geometry**.
 
-
 ---
-
-
-
 
 ## Upcoming Talks & Travel
 
@@ -67,7 +63,7 @@ title: Elsa Maneval
 ## Past Talks & Travel
 
 - Workshop [*Duality for Higgs bundles*](https://sites.google.com/view/higgs26/), University of Bonn, 26 May 2026  \
-  invited talk
+  invited talk : *Higgs bundles and mirror symmetry* 
 - [Algebra, Geometry and Topology Seminar](https://algebraic-geometry.pages.ist.ac.at/), IST Austria, 5 March 2026 \
   invited talk : *Higgs bundles and mirror symmetry* 
 - Winter School [*Motives in Montpellier*](https://imag.umontpellier.fr/~tomic/school2026/), IMAG, Université de Montpellier, 19-23 January 2026 \
@@ -101,6 +97,7 @@ title: Elsa Maneval
 
 ## Project Supervision 
 - Spring 2025 : Szpiro’s inequality, Bachelor Thesis, Gabriel Guitart Stamatopol
+- Spring 2026 : Bertini theorem and its generalization to finite fields, Bachelor Thesis, Daniel Cherpit
 
 
 ---
