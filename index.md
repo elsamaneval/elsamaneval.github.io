@@ -51,28 +51,39 @@ title: Elsa Maneval
 
 ---
 
-## Talks & Travel
+## Upcoming Talks & Travel
 
-- Workshop [*Unifying geometric perspectives on the Hitchin moduli space*](https://bernoulli.epfl.ch/programs/unifying-geometric-perspectives-on-the-hitchin-moduli-space/), Bernoulli Center EPFL, 10-14 August 2026 \
-  invited talk : *Higgs bundles and mirror symmetry* 
-- Workshop [*Geometric Representation Theory*](https://grt-workshop.sciencesconf.org/?lang=en), Amiens, 29 June-1 July 2026 \
-  invited talk :  *Motivic BPS invariants as motivic integrals (in progress)*
-- Workshop [*Duality for Higgs bundles*](https://sites.google.com/view/higgs26/), University of Bonn, 26 May 2026  \
-  invited talk : *Higgs bundles and mirror symmetry* 
-- [Algebra, Geometry and Topology Seminar](https://algebraic-geometry.pages.ist.ac.at/), IST Austria, 5 March 2026 \
-  invited talk : *Higgs bundles and mirror symmetry* 
-- Winter School [*Motives in Montpellier*](https://imag.umontpellier.fr/~tomic/school2026/), IMAG, Université de Montpellier, 19-23 January 2026 \
-  contributed talk : *Motivic BPS invariants as motivic integrals (in progress)* 
-- [Séminaire Arithmétique et Géométrie Algébrique](https://irma.math.unistra.fr/seminaires/seminaire-arithmetique-et-geometrie-algebrique.html), Strasbourg, 18 December 2025 \
-  invited talk : *Higgs bundles and mirror symmetry*
-- Conference [Rencontre ANR DAG Arts](https://sites.google.com/view/dag-arts/%C3%A9v%C3%A9nements/1%C3%A8re-rencontre-anr), Angers, 29-31 October 2025 \
-  invited talk : *Higgs bundles and mirror symmetry*
-- Conference [Current trends in Calabi-Yau moduli](https://irma.math.unistra.fr/~lfu/Activities/Conference-Moduli-Strasbourg.html), Strasbourg, 10-13 June 2025 \
-  <a href="Poster_Strasbourg.pdf" target="_blank"> Poster  </a> : *Higgs bundles and mirror symmetry* 
-- Conference [Women in Mathematics](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/), EPFL, 15-16 May 2025 \
-  contributed talk : *Arithmetic methods in enumerative geometry*
-- Conference [Combinatorial Algebraic Geometry](https://sites.google.com/view/coalggeohug/home), Frankfurt, 31 March-4 April 2025 \
-  short talk : *Higgs bundles and mirror symmetry*
+- **3 December 2026** · [*Essen Seminar for Algebraic Geometry and Arithmetic*](https://www.esaga.uni-due.de/oberseminar/), University of Duisburg-Essen
+- **18–22 January 2027** · Conference (participant) [*Cohomology, cycles, periods*](https://www.math.ens.psl.eu/~benoist/conferenceCYCLADES.html), CIRM, Marseille
+- **1 March 2027** · Seminar, University of Padova
+
+## Past Talks & Travel
+
+### 2026
+
+- **10–14 August** · Workshop [*Unifying geometric perspectives on the Hitchin moduli space*](https://bernoulli.epfl.ch/programs/unifying-geometric-perspectives-on-the-hitchin-moduli-space/), Bernoulli Center, EPFL \
+  Invited talk: *Higgs bundles and mirror symmetry*
+- **29 June – 1 July** · Workshop [*Geometric Representation Theory*](https://grt-workshop.sciencesconf.org/?lang=en), Amiens \
+  Invited talk: *Motivic BPS invariants as motivic integrals (in progress)*
+- **26 May** · Workshop [*Duality for Higgs bundles*](https://sites.google.com/view/higgs26/), University of Bonn \
+  Invited talk: *Higgs bundles and mirror symmetry*
+- **5 March** · [*Algebra, Geometry and Topology Seminar*](https://algebraic-geometry.pages.ist.ac.at/), IST Austria \
+  Invited talk: *Higgs bundles and mirror symmetry*
+- **19–23 January** · Winter School [*Motives in Montpellier*](https://imag.umontpellier.fr/~tomic/school2026/), IMAG, Université de Montpellier \
+  Contributed talk: *Motivic BPS invariants as motivic integrals (in progress)*
+
+### 2025
+
+- **18 December** · [*Séminaire Arithmétique et Géométrie Algébrique*](https://irma.math.unistra.fr/seminaires/seminaire-arithmetique-et-geometrie-algebrique.html), Strasbourg \
+  Invited talk: *Higgs bundles and mirror symmetry*
+- **29–31 October** · Conference [*Rencontre ANR DAG-Arts*](https://sites.google.com/view/dag-arts/%C3%A9v%C3%A9nements/1%C3%A8re-rencontre-anr), Angers \
+  Invited talk: *Higgs bundles and mirror symmetry*
+- **10–13 June** · Conference [*Current trends in Calabi–Yau moduli*](https://irma.math.unistra.fr/~lfu/Activities/Conference-Moduli-Strasbourg.html), Strasbourg \
+  <a href="Poster_Strasbourg.pdf" target="_blank">Poster</a>: *Higgs bundles and mirror symmetry*
+- **15–16 May** · Conference [*Women in Mathematics*](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/), EPFL \
+  Contributed talk: *Arithmetic methods in enumerative geometry*
+- **31 March – 4 April** · Conference [*Combinatorial Algebraic Geometry*](https://sites.google.com/view/coalggeohug/home), Frankfurt \
+  Short talk: *Higgs bundles and mirror symmetry*
 
 ---
 
