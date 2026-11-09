@@ -88,23 +88,24 @@ title: Elsa Maneval
 ---
 
 ## Teaching
-- Fall 2026 : [*Algèbre Linéaire Avancée I*](https://edu.epfl.ch/coursebook/fr/algebre-lineaire-avancee-i-MATH-110-B), Bachelor 1, lectured by Jerôme Scherer, EPFL (Main Teaching Assistant)
-- Spring 2026 : [*Topology II, fundamental groups*](https://edu.epfl.ch/coursebook/en/topology-ii-fundamental-groups-MATH-225), Bachelor 2, lectured by Dimitri Wyss, EPFL (Teaching Assistant)
-- Fall 2025 : [*Topology IV.a, Cohomology Rings*](https://edu.epfl.ch/coursebook/en/topology-iv-a-cohomology-rings-MATH-506), Master, lectured by Jerôme Scherer, EPFL (Teaching Assistant)
-- Spring 2025 : [*Topology II, fundamental groups*](https://edu.epfl.ch/coursebook/en/topology-ii-fundamental-groups-MATH-225), Bachelor 2, lectured by Dimitri Wyss, EPFL (Main Teaching Assistant)
-- Fall 2024 : [*Algèbre I, Structures fondamentales*](https://edu.epfl.ch/coursebook/fr/algebre-i-structures-fondamentales-MATH-113), Bachelor 1, lectured by Dimitri Wyss, EPFL 
+- Fall 2026: [*Algèbre Linéaire Avancée I*](https://edu.epfl.ch/coursebook/fr/algebre-lineaire-avancee-i-MATH-110-B), Bachelor 1, lectured by Jerôme Scherer, EPFL (Main Teaching Assistant)
+- Spring 2026: [*Topology II, fundamental groups*](https://edu.epfl.ch/coursebook/en/topology-ii-fundamental-groups-MATH-225), Bachelor 2, lectured by Dimitri Wyss, EPFL (Teaching Assistant)
+- Fall 2025: [*Topology IV.a, Cohomology Rings*](https://edu.epfl.ch/coursebook/en/topology-iv-a-cohomology-rings-MATH-506), Master, lectured by Jerôme Scherer, EPFL (Teaching Assistant)
+- Spring 2025: [*Topology II, fundamental groups*](https://edu.epfl.ch/coursebook/en/topology-ii-fundamental-groups-MATH-225), Bachelor 2, lectured by Dimitri Wyss, EPFL (Main Teaching Assistant)
+- Fall 2024: [*Algèbre I, Structures fondamentales*](https://edu.epfl.ch/coursebook/fr/algebre-i-structures-fondamentales-MATH-113), Bachelor 1, lectured by Dimitri Wyss, EPFL 
   (Main Teaching Assistant)
-- Spring 2024 : [*Algebraic Geometry I, curves*](https://edu.epfl.ch/coursebook/en/algebraic-geometry-i-curves-MATH-328), Bachelor 3, lectured by Dimitri Wyss, EPFL (Solution sheets writing)
-- Fall 2023 :  [*Algèbre I, Structures fondamentales*](https://edu.epfl.ch/coursebook/fr/algebre-i-structures-fondamentales-MATH-113), Bachelor 1, lectured by Dimitri Wyss, EPFL 
+- Spring 2024: [*Algebraic Geometry I, curves*](https://edu.epfl.ch/coursebook/en/algebraic-geometry-i-curves-MATH-328), Bachelor 3, lectured by Dimitri Wyss, EPFL (Solution sheets writing)
+- Fall 2023:  [*Algèbre I, Structures fondamentales*](https://edu.epfl.ch/coursebook/fr/algebre-i-structures-fondamentales-MATH-113), Bachelor 1, lectured by Dimitri Wyss, EPFL 
   (Teaching Assistant)
-- 2020-2021 : Colles MP\* , Lycée Condorcet, Paris 
+- 2020-2021: Colles MP\* , Lycée Condorcet, Paris 
 (Weekly maths oral exams for students in *Classes Prépa*)
   
 ---
 
 ## Project Supervision 
-- Spring 2025 : Szpiro’s inequality, Bachelor Thesis, Gabriel Guitart Stamatopol
-- Spring 2026 : Bertini theorem and its generalization to finite fields, Bachelor Thesis, Daniel Cherpit
+- Fall 2026: Master Thesis, Junda Long
+- Spring 2026: Bertini theorem and its generalization to finite fields, Bachelor Thesis, Daniel Cherpit
+- Spring 2025: Szpiro’s inequality, Bachelor Thesis, Gabriel Guitart Stamatopol
 
 
 ---
